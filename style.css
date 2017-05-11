@@ -1,0 +1,40 @@
+.thumbnail {
+	width: 150px;
+	height: 150px;
+}
+
+/*these are the logos for my social networks*/
+.social {
+	width: 35px;
+	height: 35px;
+
+}
+#connect {
+	text-align: center;
+
+}
+
+p {
+	text-align: justify;
+}
+
+#portflicks {
+	width: 125px;
+	height: 125px;
+
+}
+
+section {
+	clear: both;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	background-color: #31446f;
+	margin-bottom: 0;
+	border-color: #8b98b4;
+	border-top: 10px;
+	border-bottom: 10px;
+
+}
